@@ -16,9 +16,10 @@ section {
   margin: 30px 0px;
 }
 button {
+  margin-right: 10px;
   padding: 15px 30px;
-  border: none;
   cursor: pointer;
+  border: none;
 }
 .primary {
   background-color: #18e990;
@@ -27,8 +28,8 @@ button {
   background-color: #CC0000;
 }
 input {
-  border: none;
-  padding: 15px 2px;
   margin-right: 10px;
+  padding: 15px 15px;
   border-radius: 5px;
+  border: none;
 }
